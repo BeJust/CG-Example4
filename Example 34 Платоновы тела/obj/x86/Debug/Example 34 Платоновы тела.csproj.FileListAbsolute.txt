@@ -1,0 +1,48 @@
+H:\Примеры 3\Глава 8\Example 34 Платоновы тела\Example 34 Платоновы тела\bin\Debug\Example 34 Платоновы тела.exe
+H:\Примеры 3\Глава 8\Example 34 Платоновы тела\Example 34 Платоновы тела\bin\Debug\Example 34 Платоновы тела.pdb
+H:\Примеры 3\Глава 8\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.FormMain.resources
+H:\Примеры 3\Глава 8\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.Properties.Resources.resources
+H:\Примеры 3\Глава 8\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.csproj.GenerateResource.Cache
+H:\Примеры 3\Глава 8\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.exe
+H:\Примеры 3\Глава 8\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.pdb
+H:\Примеры 3\Глава 8\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.FormTools.resources
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\2017-2018\Лекция 4 3D график\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.exe
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\2017-2018\Лекция 4 3D график\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.pdb
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\2017-2018\Лекция 4 3D график\Example 34 Платоновы тела\Example 34 Платоновы тела\bin\Debug\Example 34 Платоновы тела.exe
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\2017-2018\Лекция 4 3D график\Example 34 Платоновы тела\Example 34 Платоновы тела\bin\Debug\Example 34 Платоновы тела.pdb
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\2017-2018\Лекция 4 3D график\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\2017-2018\Лекция 4 3D график\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.FormMain.resources
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\2017-2018\Лекция 4 3D график\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.FormTools.resources
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\2017-2018\Лекция 4 3D график\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.Properties.Resources.resources
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\2017-2018\Лекция 4 3D график\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Лекции\2 Курс\Компьютерная графика (ИС С#)\2017-2018\Лекция 4 3D график\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sergey\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\bin\Debug\Example 34 Платоновы тела.exe
+C:\Users\Sergey\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\bin\Debug\Example 34 Платоновы тела.pdb
+C:\Users\Sergey\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.FormMain.resources
+C:\Users\Sergey\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.FormTools.resources
+C:\Users\Sergey\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.Properties.Resources.resources
+C:\Users\Sergey\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.exe
+C:\Users\Sergey\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.pdb
+C:\Users\pavle\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\bin\Debug\Example 34 Платоновы тела.exe
+C:\Users\pavle\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\bin\Debug\Example 34 Платоновы тела.pdb
+C:\Users\pavle\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.csprojAssemblyReference.cache
+C:\Users\pavle\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.FormMain.resources
+C:\Users\pavle\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.FormTools.resources
+C:\Users\pavle\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.Properties.Resources.resources
+C:\Users\pavle\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.csproj.GenerateResource.cache
+C:\Users\pavle\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.csproj.CoreCompileInputs.cache
+C:\Users\pavle\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.exe
+C:\Users\pavle\Desktop\Example 34 Платоновы тела\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.pdb
+C:\Users\pavle\Desktop\Example 34 Платоновы тела — копия\Example 34 Платоновы тела\bin\Debug\Example 34 Платоновы тела.exe
+C:\Users\pavle\Desktop\Example 34 Платоновы тела — копия\Example 34 Платоновы тела\bin\Debug\Example 34 Платоновы тела.pdb
+C:\Users\pavle\Desktop\Example 34 Платоновы тела — копия\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.csprojAssemblyReference.cache
+C:\Users\pavle\Desktop\Example 34 Платоновы тела — копия\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.FormMain.resources
+C:\Users\pavle\Desktop\Example 34 Платоновы тела — копия\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.FormTools.resources
+C:\Users\pavle\Desktop\Example 34 Платоновы тела — копия\Example 34 Платоновы тела\obj\x86\Debug\Example_34_Платоновы_тела.Properties.Resources.resources
+C:\Users\pavle\Desktop\Example 34 Платоновы тела — копия\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.csproj.GenerateResource.cache
+C:\Users\pavle\Desktop\Example 34 Платоновы тела — копия\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.csproj.CoreCompileInputs.cache
+C:\Users\pavle\Desktop\Example 34 Платоновы тела — копия\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.exe
+C:\Users\pavle\Desktop\Example 34 Платоновы тела — копия\Example 34 Платоновы тела\obj\x86\Debug\Example 34 Платоновы тела.pdb

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Example_34_Платоновы_тела.TPlaton">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QBAUACAADAACJhhCEEAARAIMOYkUAACAQYoAAYAAAAE=</HashCode>
+      <FileName>Platon.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="body" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Example_34_Платоновы_тела.TBody">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="Edges" Type="Example_34_Платоновы_тела.TEdge" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2" Y="1.438" />
+        <Point X="1.75" Y="1.438" />
+        <Point X="1.75" Y="2" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAgIABgAAABAACAAEhAAAkEAAAcAAEACCAAgAAAgA=</HashCode>
+      <FileName>Platon.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Edges" />
+      <Field Name="Faces" />
+    </ShowAsAssociation>
+  </Class>
+  <Struct Name="Example_34_Платоновы_тела.TFace">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAABAAAAA=</HashCode>
+      <FileName>Platon.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Example_34_Платоновы_тела.TEdge">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Platon.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
